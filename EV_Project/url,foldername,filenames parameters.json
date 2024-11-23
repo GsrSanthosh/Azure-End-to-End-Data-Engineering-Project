@@ -1,0 +1,27 @@
+[
+    {
+        "p_rel_url" : "GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/refs/heads/main/EV_Project/EV%20Maker%20by%20Place.csv",
+        "p_sink_foldername" :"Evmanufactureplace",
+        "p_sink_filename":"place.csv"     
+    },
+    {
+        "p_rel_url" :"GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/refs/heads/main/EV_Project/OperationalPC.csv",
+        "p_sink_foldername" :"OperationalPC",
+        "p_sink_filename":"OperationalPC.csv"
+    },
+    {
+        "p_rel_url" :"GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/refs/heads/main/EV_Project/Vehicle%20Class%20-%20All.csv",
+        "p_sink_foldername" :"vechileclass",
+        "p_sink_filename":"vechileclass.csv"
+    },
+    {
+        "p_rel_url" :"GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/refs/heads/main/EV_Project/ev_cat_01-24.csv",
+        "p_sink_foldername" :"manufacturevechilecategory",
+        "p_sink_filename":"vechilecategory.csv"
+    },
+    {
+        "p_rel_url" :"GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/refs/heads/main/EV_Project/ev_sales_by_makers_and_cat_15-24.csv",
+        "p_sink_foldername" :"makersyearswise",
+        "p_sink_filename":"makersyearwise.csv"
+    }
+]
