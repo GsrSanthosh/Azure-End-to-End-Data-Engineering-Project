@@ -42,6 +42,8 @@ This analysis focuses on understanding how leading EV manufacturers have evolved
 
 * Data Flow: Explain how data flows from source to destination.
 
+EV_Project/Screenshot 2024-11-23 142948.png
+
 
 
 
