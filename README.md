@@ -56,7 +56,7 @@ This analysis focuses on understanding how leading EV manufacturers have evolved
    
    Designed ETL pipelines to extract data from APIs and load it into ADLS Gen-2 bronze layer for transformation and storage.
 
-![Screenshot (1)]   (https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/187751a9a7b448c22a54061feab81485a144560b/Screenshot%202024-11-23%20191310.png)
+![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/187751a9a7b448c22a54061feab81485a144560b/Screenshot%202024-11-23%20191310.png)
 
 
 
