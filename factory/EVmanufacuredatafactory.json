@@ -1,0 +1,9 @@
+{
+	"name": "EVmanufacuredatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f67ac6eb-7cf2-442d-b25f-2c3a81465e65",
+		"tenantId": "ed106d40-8517-42c2-a042-0d62879db2f8"
+	}
+}
