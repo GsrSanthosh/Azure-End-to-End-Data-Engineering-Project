@@ -58,7 +58,13 @@ This analysis focuses on understanding how leading EV manufacturers have evolved
 
 ![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/187751a9a7b448c22a54061feab81485a144560b/Screenshot%202024-11-23%20191310.png)
 
-
+# Data transformation
+*. Data is loading into databricks through a secure connection using Azure key vault and secret scope in databricks.
+*. Creating of mount point  for getting data from Adls gen-2 to Azure databricks.
+*. Cluster nodes, and compute automatically managed by the Databricks service.
+*. The Initial Data is cleaned and processed in two steps. Bronze to Silver and Silver to Gold.
+*. Bronze to Silver notebook we used to clean data and performing transformations like removing null values and other and getting data for visualization.
+*. Silver to Gold notebook based upon requirement data required for visualization data is moved to gold container
 
 
 
