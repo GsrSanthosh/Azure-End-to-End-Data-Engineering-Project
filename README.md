@@ -81,6 +81,8 @@ This analysis focuses on understanding how leading EV manufacturers have evolved
     
 ![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/160e5601d0e378f1ccaa825cbe92e56c5aec1dac/Screenshot%202024-12-09%20184510.png)
 
+  * End to End of Extract Transform Load (ETL) Pipeline.
+![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/adb461b83412788d43b9b8a0648ab55528aec1da/EV_Project/Screenshot%202024-11-28%20201530.png)
  # Data Warehouse
  * Azure Synapse Analytics: This was chosen as it integrates data warehousing, big data, and data integration capabilities into a single platform.
    It is built on a massively parallel processing architecture and an extremely robust analytics tool which shares many functionalities with Azure Data factory.
@@ -109,3 +111,10 @@ This analysis focuses on understanding how leading EV manufacturers have evolved
 
   * Loading Data to PowerBI
 ![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/ade9f610eb95152570c21d7447171c49669eb968/Screenshot%202024-12-09%20195102.png)
+
+  * Now of Electronic vechile charging stations state wise
+![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/588a6c444e3e363136e14586d87a900fb2dc67e5/PowerBI/Screenshot%202024-12-09%20132447.png)
+
+  * statewise Electoric vechiles manufacturing Details
+
+![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/588a6c444e3e363136e14586d87a900fb2dc67e5/PowerBI/Screenshot%202024-12-09%20165459.png)
