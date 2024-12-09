@@ -65,6 +65,6 @@ This analysis focuses on understanding how leading EV manufacturers have evolved
   The Initial Data is cleaned and processed in two steps. Bronze to Silver and Silver to Gold.
   Bronze to Silver notebook we used to clean data and performing transformations like removing null values and other and getting data for visualization.
   Silver to Gold notebook based upon requirement data required for visualization data is moved to gold container.
-
+![Screenshot (1)](
 
 
