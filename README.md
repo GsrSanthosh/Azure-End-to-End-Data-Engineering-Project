@@ -109,12 +109,22 @@ This analysis focuses on understanding how leading EV manufacturers have evolved
   * connecting to azure synapse analytics through Endpoint.
 ![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/4f8ffd005d2c047d3ce3e622d51bbc0afeda25a4/Screenshot%202024-12-09%20194447.png)
 
-  * Loading Data to PowerBI
+  * Loading Data to PowerBI.
 ![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/ade9f610eb95152570c21d7447171c49669eb968/Screenshot%202024-12-09%20195102.png)
 
-  * Now of Electronic vechile charging stations state wise
+  * Now of Electronic vechile charging stations state wise.
 ![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/588a6c444e3e363136e14586d87a900fb2dc67e5/PowerBI/Screenshot%202024-12-09%20132447.png)
 
-  * statewise Electoric vechiles manufacturing Details
-
+  * statewise Electoric vechiles manufacturing Details.
 ![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/588a6c444e3e363136e14586d87a900fb2dc67e5/PowerBI/Screenshot%202024-12-09%20165459.png)
+
+ * Ratio of yearwise Electronic vechiles manufacturing Details.
+![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/c0c64847c1e14f9b9cd9a43e60c2dacf238e7e8b/PowerBI/Screenshot%202024-12-09%20171414.png)
+
+ * Total Electronic vechiles manufactured by makers from (2015-2024).
+![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/c0c64847c1e14f9b9cd9a43e60c2dacf238e7e8b/PowerBI/Screenshot%202024-12-09%20172457.png)
+
+![Screenshot (1)](https://github.com/GsrSanthosh/Electronic_vechile_manufacture_analysis-2015-2024-/blob/c0c64847c1e14f9b9cd9a43e60c2dacf238e7e8b/PowerBI/Screenshot%202024-12-09%20174607.png)
+
+
+
